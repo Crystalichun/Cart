@@ -1,6 +1,9 @@
 # Cart
 Cart system will load txt file which record all customer orders into cart and calculate total fee automatically. Also you can add your coupon and promotion info in the txt file then the cart will discount for you. 
 
+## Github
+https://github.com/Crystalichun/Cart/
+
 ## How to run ?
 - 1.Import project into eclipse or intelliJ.
 - 2.Config jdk>=1.8.
