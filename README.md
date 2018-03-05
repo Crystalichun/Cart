@@ -7,7 +7,7 @@ https://github.com/Crystalichun/Cart/
 ## How to run ?
 - 1.Import project into eclipse or intelliJ.
 - 2.Config jdk>=1.8.
-- 3.Write orders info into orders.txt which under root directory of the project.
+- 3.Write orders info into orders.txt(if not exist, create manually please) which under root directory of the project.
 - 4.Select CartManager.java, run as java application,then you will see the total fee of your input orders in the console.
 
 ## How to run unit test?
